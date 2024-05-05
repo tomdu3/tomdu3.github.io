@@ -21,12 +21,12 @@ tags: [python,programming,code]
 ## GUI
 - [Tkinter Data Entry Form tutorial for beginners - Python GUI project [responsive layout]](https://youtu.be/vusUfPBsggw)
 
-- [Python Coding for Beginner: Creating Comboboxes with Tkinter]()
+- [Build GUI Apps With Python and Tkinter](https://www.youtube.com/playlist?list=PLfZw_tZWahjxp0udXMdTcu0QjX0k1QzUz)
 
 ## Leetcode
 
 - [Leetcode](https://leetcode.com/)
-- [The unfair way I got good at Leetcode](www.youtube.com/watch?v=KqzZ2Yw7YkA)
+- [The unfair way I got good at Leetcode](https://youtu.be/GPIuPRqDGG8)
 
 ## Some Python knowledge bits
 
