@@ -30,8 +30,7 @@ Here we will be using Git and GitHub.
 
 <span style="color:red">There are different resources related to the version control in the resources article on this page: </span>
 
-- [Resources]({% post_url _posts/2024-05-04-resources %}) .
-
+- [Resources]({% post_url _posts/2024-05-04-resources %})
 
 ### Git and GitHub Tutorials
 
@@ -41,6 +40,7 @@ Here we will be using Git and GitHub.
 - [Paul Ehikhuemen: *Git and GitHub Basics: A Beginner's Guide*](https://pauloe-me.medium.com/git-and-github-basics-a-beginners-guide-6d57c1f0e663)
 - [Gurpreet Singh: *Git Tutorial for Beginners: A Comprehensive Guide to Mastering Version Control*](https://medium.com/@igurpreetsingh/git-tutorial-for-beginners-a-comprehensive-guide-to-mastering-version-control-a0da3eb0b6e8)
 - [FreeCodeCamp: *Learn Git in Detail to Manage Your Code*](https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/)
+- [Tech with Tim: *Git and GitHub in ~30 Minutes*](https://www.youtube.com/embed/jG4Vs81kMlc)
 
 ### Useful Links for Practical Use
 
