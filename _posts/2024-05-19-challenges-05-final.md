@@ -15,13 +15,15 @@ Develop a system to manage and analyze student grades using complex data structu
 ### Requirements
 - Store student information (name, ID) and their grades using dictionaries.
 - Use tuples to store grade details (subject, score).
-- Utilize sets to track unique subjects.
+- Utilize sets to track unique subjects:
+  - when you start a all students report, you start the report:
+    - `In this school we teach: English, Math, ...'` - this shoud come from the set (collection of unique elements)
 
 ### Features
 - Add new students and their grades.
 - Update existing grades.
 - Calculate the average grade for each student.
-- List all students and their grades.
+- List all students and their grades (or list all subjects and average grades calculated from students records).
 
 ### Guidance
 - **Data Structure:** Use a nested dictionary to store student information and grades.
@@ -29,8 +31,6 @@ Develop a system to manage and analyze student grades using complex data structu
 - **Validation:** Ensure grades are valid numbers and handle invalid input gracefully.
 - **User Interface:** Create a command-line interface for user interactions.
 
-### Extras
-- **Exporting:** Export student information and grades to CSV files (optional). Look up for the `csv` module in Python.
 
 ## Project 2: Contact Book Application
 
@@ -54,5 +54,7 @@ Develop a contact book application to store and manage contact information using
 - **Error Handling:** Manage errors gracefully, such as updating a non-existent contact.
 - **User Experience:** Design an intuitive user interface for adding, updating, and searching contacts.
 
-### Extras
-- **Exporting:** Export contact information to CSV files (optional). Look up for the `csv` module in Python.
+---
+
+Now, the code doesn't have to be perfect and you don't have to implement all the features. The important thing is that you have all the functionalities (even if they are not all very detailed), that you use all the data structures (sets, tuples, dictionaries, lists) and that your code is working.
+
