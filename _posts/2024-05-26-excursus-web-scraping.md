@@ -33,7 +33,7 @@ Before we start writing code, let's inspect the website to understand its struct
 * Notice the `table` tags: <table> and </table>.
 * There are two tables on the web site.
 
-**Step 2: Send an HTTP Request**
+### **Step 2: Send an HTTP Request**
 
 We'll use the `requests` library to send an HTTP request to the website.
 ```python
@@ -44,7 +44,7 @@ response = requests.get(url)
 ```
 The `response` object contains the HTML content of the webpage.
 
-**Step 3: Parse the HTML**
+### **Step 3: Parse the HTML**
 
 We'll use the `BeautifulSoup` library to parse the HTML content.
 ```python
@@ -54,7 +54,7 @@ soup = BeautifulSoup(response.content, 'html.parser')
 ```
 The `soup` object is a parsed representation of the HTML content.
 
-**Step 4: Find the Table**
+### **Step 4: Find the Table**
 
 We'll use the `find()` method to locate the table with tag `table`.
 ```python
@@ -64,7 +64,7 @@ table = soup.find_all('table')[0] # find_all gives a list of which we want the f
 ```
 The `table` variable now holds a reference to the first table on the page.
 
-**Step 5: Extract Table Data**
+### **Step 5: Extract Table Data**
 
 We will skip the first row of the table because it contains column headers. So, we will only extract the data from the remaining rows (tbody).
 
@@ -92,7 +92,7 @@ We use this text content as a key in the `table_data` dictionary. If the key is 
 We append the extracted value to the list associated with the key.
 This code assumes that each column in the table contains a unique value (key) and a corresponding value (e.g., a numerical value). The resulting dictionary will contain these keys as keys and lists of corresponding values as values.
 
-**Step 6: Store and Print the Data**
+### **Step 6: Store and Print the Data**
 
 Finally, we'll print and store our extracted data.
 ```python
@@ -124,6 +124,8 @@ for row in rows:
 pprint(table_data)
 ```
 When you run this code, it should print a dictionary containing the extracted data from the first table on the page.
+
+### **Step 7: Store the Data Locally**
 
 If we want to store the data locally we can use the `json` library to convert our dictionary to a JSON string and store it in a file.
 
