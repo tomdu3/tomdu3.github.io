@@ -79,9 +79,9 @@ table_data = {}
 
 rows = tbody.find_all('tr')
 for row in rows:  # we are looping through the rows of the table
-    cols = row.find_all('td')  # we are getting a list of all the columns in each row
+    cols = row.find_all('td')  # getting a list of all the columns in each row
     # we are ignoring the first column because it contains order numbers, then we are extracting the second column and using that as a key of the dictionary
-    # we are cleaning the text in the third column from `$` and `,` characters and converting it from the text to an integer value
+    # text in the third column needs to be cleaned from `$` and `,` characters and converting it from the text to an integer value
     table_data[cols[1].text.strip()] = int(cols[2].text.strip().replace('$', '').replace(',', ''))
 
 ```
@@ -113,15 +113,12 @@ soup = BeautifulSoup(response.content, 'html.parser')
 
 table = soup.find('table')
 
-table_data = {}
 tbody = table.tbody
 table_data = {}
 
 rows = tbody.find_all('tr')
-for row in rows:  # we are looping through the rows of the table
-    cols = row.find_all('td')  # we are getting a list of all the columns in each row
-    # we are ignoring the first column because it contains order numbers, then we are extracting the second column and using that as a key of the dictionary
-    # we are cleaning the text in the third column from `$` and `,` characters and converting it from the text to an integer value
+for row in rows:
+    cols = row.find_all('td')  
     table_data[cols[1].text.strip()] = int(cols[2].text.strip().replace('$', '').replace(',', ''))
 
 pprint(table_data)
