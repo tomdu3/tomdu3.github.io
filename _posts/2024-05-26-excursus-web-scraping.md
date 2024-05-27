@@ -12,7 +12,7 @@ tags: [python,programming,code]
 - [*Python Web Scraping Tutorial: Step By Step*](https://oxylabs.io/blog/python-web-scraping)
 - [Real Python: *Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 - [*Web Scraping with Python Tutorial: Step By Step Guide*](https://nanonets.com/blog/web-scraping-with-python-tutorial/)
-- [Alex The Analyst: *Scraping Data from a Real Website | Web Scraping in Python*](https://youtu.be/8dTpNajxaH0)
+- [Alex The Analyst: *Scraping Data from a Real Website (Web Scraping in Python)*](https://youtu.be/8dTpNajxaH0)
 
 ## **What is Web Scraping?**
 
