@@ -58,7 +58,7 @@ tags: [python,programming,code]
 8. [Learn Python](https://www.learnpython.org/)
 9. [Coding Specs -  Python Tutorial Series](https://youtube.com/playlist?list=PLXsIzCjwd5L5CDQ0aGO-6xT_Rza3MxLiW&si=LtBeKmVMWm9eIXv6)
 10. [Coding Specs - Python Challenges](https://youtube.com/playlist?list=PLXsIzCjwd5L4HmBqBTeITGY1eEHlDdqYW&si=qooppWFneCi9OlHe)
-11. [Python 2024: Ultimate Crash Course for Beginners | Learn Python Programming from Scratch!](https://youtu.be/GZVfBqS4ep8)
+11. [Python 2024: Ultimate Crash Course for Beginners - Learn Python Programming from Scratch!](https://youtu.be/GZVfBqS4ep8)
 12. [Doggy Styles - Python Basics](https://youtube.com/playlist?list=PL2EW-qt0yFjaqrHxAcqpK-mkhaQBaBx0k&si=fWHUvPddboTerAjh)
 13. [9 HOURS of Python Projects - From Beginner to Advanced](https://youtu.be/NpmFbWO6HPU)
 14. [Python is Awesome 1](https://youtu.be/lnYaLqaZsiw)
@@ -67,7 +67,7 @@ tags: [python,programming,code]
 ## Practice Python
 1. [Boot Dev](https://www.boot.dev/) - Learn Lessons through playing games
 2. [Checkio](https://checkio.org/) - Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript 
-3. [Python Challenge - http://www.pythonchallenge.com/](https://tomdu3.github.com) - a bit advanced and hard series of Python challenges
+3. [Python Challenge](http://www.pythonchallenge.com/) - a bit advanced and hard series of Python challenges
 4. [Code Wars](https://www.codewars.com/) - another challenge site
 5. [Code Combat](https://codecombat.com/play) - play game by coding
 6. [W3Schools - Python](https://www.w3schools.com/python/python_exercises.asp) - tutorials and exercises
