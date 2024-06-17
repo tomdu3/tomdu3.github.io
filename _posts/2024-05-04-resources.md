@@ -67,7 +67,7 @@ tags: [python,programming,code]
 ## Practice Python
 1. [Boot Dev](https://www.boot.dev/) - Learn Lessons through playing games
 2. [Checkio](https://checkio.org/) - Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript 
-3. [Python Challenge](http://www.pythonchallenge.com/) - a bit advanced and hard series of Python challenges
+3. [Python Challenge => http://www.pythonchallenge.com/](#) - a bit advanced and hard series of Python challenges
 4. [Code Wars](https://www.codewars.com/) - another challenge site
 5. [Code Combat](https://codecombat.com/play) - play game by coding
 6. [W3Schools - Python](https://www.w3schools.com/python/python_exercises.asp) - tutorials and exercises
