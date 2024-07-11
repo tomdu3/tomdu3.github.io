@@ -52,7 +52,6 @@ Develop a contact book application to store and manage contact information using
 
 ### Requirements
 - Store contact details (name, phone number, email) using dictionaries.
-- Use tuples to store immutable contact information (date of birth, address).
 - Implement search and update functionalities.
 
 ### Features
@@ -62,12 +61,12 @@ Develop a contact book application to store and manage contact information using
 - List all contacts.
 
 ### Guidance
-- **Data Structure:** Use dictionaries for mutable data and tuples for immutable data.
+- **Data Structure:** You can use dictionaries, lists, or tuples to store and manage contact information.
 - **Search Functionality:** Implement search by name with partial matches.
 - **Error Handling:** Manage errors gracefully, such as updating a non-existent contact.
 - **User Experience:** Design an intuitive user interface for adding, updating, and searching contacts.
 
 ---
 
-Now, the code doesn't have to be perfect and you don't have to implement all the features. The important thing is that you have all the functionalities (even if they are not all very detailed), that you use all the data structures (sets, tuples, dictionaries, lists) and that your code is working.
+Now, the code doesn't have to be perfect and you don't have to implement a very detailed and intuitive user interface. The important thing is that you have all the functionalities (even if they are not all very detailed), that you use complex data structures (sets, tuples, dictionaries, lists) and that your code is working.
 
