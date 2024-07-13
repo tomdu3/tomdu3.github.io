@@ -1,5 +1,5 @@
 ---
-title: Introduction to Python - Group Challenge 1 - Hangman Game
+title: Introduction to Python - Week 3 -Group Challenge Details - Hangman Game
 date: 2024-5-13 04:00:00 +0000
 categories: [python, task, hangman]
 tags: [python,programming,code]
