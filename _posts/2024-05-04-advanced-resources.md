@@ -32,9 +32,9 @@ tags: [python,programming,code]
 
 - [Why \_\_init\_\_.py File is Used in Python Projects](https://youtu.be/mWaMSGwiSB0)
  
- # AI Resources
+# AI Resources
 
- ## Python
+## Python
  
 - [Python AI with OpenAI](https://openai.com/blog/python-ai/)
 - [Python AI with Microsoft](https://docs.microsoft.com/en-us/azure/cognitive-services/python/)
