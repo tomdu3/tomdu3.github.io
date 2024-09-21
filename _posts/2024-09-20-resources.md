@@ -1,6 +1,6 @@
 ---
 title: Introduction to Python - Online Resources
-date: 2024-5-4 01:00:00 +0000
+date: 2024-09-20 01:00:00 +0000
 categories: [python, lesson, resources]
 tags: [python,programming,code]
 ---
