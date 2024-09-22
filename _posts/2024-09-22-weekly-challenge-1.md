@@ -77,5 +77,7 @@ tags: [python,programming,code]
 - Implement error handling for unexpected inputs.
 - Allow the user to generate multiple stories or exit the program.
 
+---
+
 **Note:** All the tasks need to be in separate `.py` files. You can send them to me by email, through DM on Discord or by sending me the link to your GitHub repository with the task files.
 If you are using Google Colab (only for this week), you can share the link to your Colab notebook with me, but allow me to be a **commenter**. The notebook should have the title `Week1`.
