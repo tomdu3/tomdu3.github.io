@@ -1,5 +1,5 @@
 ---
-title: Introduction to Python - Version Control - Excursus
+title: Introduction to Python - Version Control - Extra
 date: 2024-09-20 02:00:01 +0000
 categories: [python, additional]
 tags: [python,programming,code, git, github]
