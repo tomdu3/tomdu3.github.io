@@ -47,4 +47,8 @@ tags: [python,programming,code]
 ## AI Developer Tools
 
 - [Alternatives to Copilot](https://dev.to/sh20raj/10-free-github-copilot-alternatives-for-vs-code-in-2024-4bgn)
-  
+
+
+## Python Projects
+- [Tech with Tim: Learn Python With 5 Projects - From Beginner to Advanced](https://youtu.be/BO6LjtEOGZw)
+- [Tech with Tim: Learn Python With This ONE Project!](https://youtu.be/th4OBktqK1I?list=PLb9kBFoQ3BzkvK5srlYPNHAjG6QA9jTRs)
