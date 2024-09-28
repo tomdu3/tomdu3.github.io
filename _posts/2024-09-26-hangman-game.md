@@ -1,5 +1,5 @@
 ---
-title: Introduction to Python - Week 3 - Hangman Game Details
+title: Introduction to Python - Hangman Game Details
 date: 2024-09-26 09:00:00 +0000
 categories: [python, task, hangman]
 tags: [python,programming,code]
