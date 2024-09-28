@@ -1,12 +1,15 @@
 ---
-title: Introduction to Python - Week 3 - Group Challenge - Hangman Game Details
-date: 2024-09-25 11:00:00 +0000
+title: Introduction to Python - Week 3 - Hangman Game Details
+date: 2024-09-26 09:00:00 +0000
 categories: [python, task, hangman]
 tags: [python,programming,code]
 ---
 
-Because this project is more complex than the others, we will be working in a group. To make the project easier to understand and complete, here is the outline for the project.
+Here are the details of the project hangman game. There are Instructions and a skeleton code for your consideration.
 
+![Hangman Game](../assets/img/hangman.webp)
+
+## Instructions
 Our code should be structured as follows:
 
 1. Choose a word: The game randomly selects a word from a predefined list of words.
