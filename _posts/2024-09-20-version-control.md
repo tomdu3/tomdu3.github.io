@@ -30,7 +30,7 @@ Here we will be using Git and GitHub.
 
 <span style="color:red">There are different resources related to the version control in the resources article on this page: </span>
 
-- [Resources]({% post_url _posts/2024-09-20-resources %})
+- [Resources]({% link _posts/2024-09-20-resources.md %})
 
 ### Git and GitHub Tutorials
 

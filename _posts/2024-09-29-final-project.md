@@ -1,6 +1,6 @@
 ---
 title: Final Project Options - Choose Your Adventure!
-date: 2024-09-29 07:00:00 +0000
+date: 2024-09-29 04:00:00 +0000
 categories: [python, final project, student resources]
 tags: [python, project options]
 ---
