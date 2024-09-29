@@ -18,7 +18,7 @@ This project involves creating a calculator that helps users understand the cost
 
 You will compute monthly costs, which include the loan payment and fuel expenses, and then provide a recommendation on which car would be the better option based on costs.
 
-[Link to the post]({% link _posts/2024-09-26-car-loan.md %})
+[Link to the post]({% link _posts/2024-09-29-car-loan.md %})
 
 ## 2. Quiz Game
 
