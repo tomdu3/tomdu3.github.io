@@ -4,7 +4,7 @@ date: 2024-09-29 07:00:00 +0000
 categories: [python, final project, student resources]
 tags: [python, project options]
 ---
-
+![Final project image](../assets/img/final-project.webp)
 For your final project, you have some exciting options to choose from! Here’s a simple breakdown of the two main projects you can work on:
 
 ## 1. Car Loan Calculator
