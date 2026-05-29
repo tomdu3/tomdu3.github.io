@@ -15,18 +15,16 @@ tags: [python,programming,code]
 
 ## Online Courses on Python
 
-1. [Python for Absolute Beginners in 2024 (Josh)](https://www.zerotoknowing.com/courses/pythonforbeginners)
+1. [Absolute Basics of Python (Josh)](https://www.zerotoknowing.com/course/absolute-basics-of-python)
 2. [PY4E - Python for Everybody](https://www.py4e.com/)
-3. [Replit 100 days of Python](https://replit.com/learn/100-days-of-python/)
-4. [freeCodeCamp's Python Curriculum 2024](https://www.freecodecamp.org/news/python-curriculum-upgrade/)
-5. [Scrimba - Learn Python](https://scrimba.com/learn/python)
-6. [Codecademy - Learn Python 3](https://www.codecademy.com/catalog/language/python)
-7. [Harvard's CS50 - Python](https://cs50.harvard.edu/python/2022/)
-8. [Microsoft - Intro to Python](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
-9. [Educative - Learn Python 3 from Scratch](https://www.educative.io/courses/learn-python-3-from-scratch)
-10. [Udemy - Learn Python for Total Beginners](https://www.udemy.com/course/python-3-for-total-beginners/l)
-11. [Udacity - Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
-12. [Kaggle - Python](https://www.kaggle.com/learn/python)
+3. [freeCodeCamp's Python Curriculum 2024](https://www.freecodecamp.org/news/python-curriculum-upgrade/)
+4. [Scrimba - Learn Python](https://scrimba.com/learn/python)
+5. [Codecademy - Learn Python 3](https://www.codecademy.com/catalog/language/python)
+6. [Harvard's CS50 - Python](https://cs50.harvard.edu/python/2022/)
+7. [Microsoft - Intro to Python](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
+8. [Educative - Learn Python 3 from Scratch](https://www.educative.io/courses/learn-python-3-from-scratch)
+9. [Udacity - Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+10. [Kaggle - Python](https://www.kaggle.com/learn/python)
 
 
 ## YouTube Courses on Python
@@ -45,6 +43,7 @@ tags: [python,programming,code]
 12. [The complete guide to Python](https://youtu.be/mDKM-JtUhhc)
 13. [Python Tutorial for Beginners - Full Course in 12 Hours (2022)](https://youtu.be/B9nFMZIYQl0)
 14. [Python for Everyone: From Zero to Hero 6 Hours Complete Course](https://www.youtube.com/watch?v=JZDQKj9BOoc)
+15. [Python Full Course for Beginners (13 Hours) – From Zero to Hero - Baraa](https://youtu.be/Rq5gJVxz55Q)
 
 ## Online Tutorials on Python
 
